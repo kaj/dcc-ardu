@@ -1,5 +1,5 @@
-What’s DCC++
-------------
+What’s dcc-ardu
+---------------
 
 DCC++ is an open-source hardware and software system for the operation of DCC-equipped model railroads.
 
